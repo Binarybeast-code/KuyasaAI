@@ -1,0 +1,2 @@
+# KuyasaAI
+The AI tutor
