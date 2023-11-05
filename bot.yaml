@@ -1,0 +1,11 @@
+name: final-model
+flavor: pyfunc
+python_version: 3.10
+conda_env: my-env.yml
+entry_point: chatbot.py
+inputs:
+- name: text
+  type: string
+outputs:
+- name: answer
+  type: string
